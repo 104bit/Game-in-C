@@ -367,7 +367,7 @@ if(satir==muhafiz5r&&sutun==muhafiz5c){
     if(!sw)
     printf("Oyunu Kaybettiniz");
     if(sw)
-    printf("Oyunu Kazandýnýz");
+    printf("Oyunu KazandÃ½nÃ½z");
         
         
     
